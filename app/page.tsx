@@ -5,19 +5,19 @@ import './styles.css';
 
 export default function Home() {
   return (
-    <>
-      <div className="container">
+    <div>
+      <div className="containerr">
         <div className="title">Lev Kalinin</div>
       </div>
-      <div className="container">
-        <div className="title">
+      <div className="containerr">
+        <div className="title blurr">
           <Link href="/qa">QA</Link>
         </div>
         <div className="separator"></div>
-        <div className="title">
+        <div className="title blurr">
           <Link href="/dev">DEV</Link>
         </div>
       </div>
-    </>
+    </div>
   );
 }

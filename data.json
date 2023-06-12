@@ -1,0 +1,60 @@
+{
+  "qa": {
+    "skills": {
+      "languages": {
+        "js": {
+          "id": 1,
+          "name": "Javascript"
+        },
+        "ts": {
+          "id": 2,
+          "name": "Typescript"
+        },
+        "java": {
+          "id": 3,
+          "name": "Java"
+        },
+        "python": {
+          "id": 4,
+          "name": "Python"
+        },
+        "sql": {
+          "id": 5,
+          "name": "SQL"
+        }
+      },
+      "tools": {
+        "postman": {
+          "id": 1,
+          "name": "Postman"
+        },
+        "qase": {
+          "id": 2,
+          "name": "Qase"
+        },
+        "youtrack": {
+          "id": 3,
+          "name": "Youtrack"
+        },
+        "jira": {
+          "id": 4,
+          "name": "Jira"
+        },
+        "confluence": {
+          "id": 5,
+          "name": "Confluence"
+        },
+        "testit": {
+          "id": 6,
+          "name": "Test IT"
+        },
+        "docker": {
+          "id": 7,
+          "name": "Docker"
+        }
+      }
+    },
+    "projects": {}
+  },
+  "dev": {}
+}
