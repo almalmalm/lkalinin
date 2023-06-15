@@ -57,7 +57,8 @@ export default function Qa() {
             href="https://github.com/almalmalm/my-expenses-tests"
             target="_blank"
           >
-            Cypress Tests + CI/CD for app &quot;My Expenses&quot;
+            Cypress Tests + CI/CD for app &quot;My Expenses&quot; + QASE report
+            integration
           </a>
         </div>
       </div>
